@@ -10,5 +10,5 @@ Run `npm run seed` to seed the data.
 
 ### Run the program
 
-Run "npm start" to start the server
+Run `npm start` to start the server
 
